@@ -1,0 +1,8 @@
+B:\visual studio C#\1\Task1\bin\Debug\Task1.exe.config
+B:\visual studio C#\1\Task1\bin\Debug\Task1.exe
+B:\visual studio C#\1\Task1\bin\Debug\Task1.pdb
+B:\visual studio C#\1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+B:\visual studio C#\1\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+B:\visual studio C#\1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+B:\visual studio C#\1\Task1\obj\Debug\Task1.exe
+B:\visual studio C#\1\Task1\obj\Debug\Task1.pdb
